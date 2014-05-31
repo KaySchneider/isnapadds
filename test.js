@@ -1,1 +1,4 @@
-alert()
+function getGadgetName() {
+  alert();
+  return "ikay";
+}
